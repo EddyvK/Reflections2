@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+A data structure is created which will hold the data on commits and the like once these are done
