@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 A data structure is created which will hold the data on commits and the like once these are done
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is a temporary list of files to be commited. It's temporary aspect is what makes it different.
